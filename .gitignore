@@ -1,0 +1,5 @@
+node_modules
+.env
+archived_images
+files_to_be_processed
+processed_images
