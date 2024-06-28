@@ -27,9 +27,13 @@ Within the storage account, create two containers, one called "input_images" and
 
 Within the storage account Events blade, create a new subscription. You can use the visual below:
 
-![Event Subscription Visual](./docs/event-subscription-creation.mp4)
-![Event Subscription Visual](./docs/event-subscription-creation.webm)
-![Event Subscription Visual](./docs/event-subscription-creation.gif)
+![Event Subscription Visual mp4](./docs/event-subscription-creation.mp4)
+
+webm
+![Event Subscription Visual webm](./docs/event-subscription-creation.webm)
+
+gif
+![Event Subscription Visual gif](./docs/event-subscription-creation.gif)
 
 ## Running the app
 
