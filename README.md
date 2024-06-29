@@ -27,6 +27,8 @@ Within the storage account, create two containers, one called "input_images" and
 
 Within the storage account Events blade, create a new subscription. You can use the visual below:
 
+[events-subscription-creation.webm](https://github.com/vicradon/imageprocessor/assets/40396070/b87d646c-01d5-4631-9c1c-ddeb7d5cc06c)
+
 ## Running the app
 
 With all the setup completed, run `npm install` to install the required Node.js dependencies and complete the run by running `npm start`.
